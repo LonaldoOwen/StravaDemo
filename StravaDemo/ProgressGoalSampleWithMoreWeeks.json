@@ -1,0 +1,1324 @@
+ [
+      {
+      "resource_state": 2,
+      "ride": {
+          "days": [
+                   {
+                   "distance": 10,
+                   "elapsed_time": 9,
+                   "elevation_gain": 8,
+                   "moving_time": 7
+                   },
+                   {
+                   "distance": 0,
+                   "moving_time": 0
+                   },
+                   {
+                   "distance": 20,
+                   "elapsed_time": 30,
+                   "elevation_gain": 40,
+                   "moving_time": 50
+                   },
+                   {
+                   "distance": 0,
+                   "elapsed_time": 0,
+                   "elevation_gain": 0,
+                   "moving_time": 0
+                   },
+                   {
+                   "distance": 0,
+                   "elapsed_time": 0,
+                   "elevation_gain": 0,
+                   "moving_time": 0
+                   },
+                   {
+                   "distance": 0,
+                   "elapsed_time": 0,
+                   "elevation_gain": 0,
+                   "moving_time": 0
+                   },
+                   {
+                   "distance": 0,
+                   "elapsed_time": 0,
+                   "elevation_gain": 0,
+                   "moving_time": 0
+                   }
+                   ],
+          "distance": 123000,
+          "elapsed_time": 6000,
+          "elevation_gain": 1234,
+          "goal": {
+              "goal": 5000000,
+              "type": "DistanceGoal"
+          },
+          "moving_time": 4321
+      },
+      "run": {
+          "days": [
+                   {
+                   "distance": 1,
+                   "elapsed_time": 2,
+                   "elevation_gain": 3,
+                   "moving_time": 4
+                   },
+                   {
+                   "distance": 5,
+                   "elapsed_time": 6,
+                   "elevation_gain": 7,
+                   "moving_time": 8
+                   },
+                   {
+                   "distance": 9,
+                   "elapsed_time": 10,
+                   "elevation_gain": 11,
+                   "moving_time": 12
+                   },
+                   {
+                   "distance": 13,
+                   "elapsed_time": 14,
+                   "elevation_gain": 15,
+                   "moving_time": 16
+                   },
+                   {
+                   "distance": 17,
+                   "elapsed_time": 18,
+                   "elevation_gain": 19,
+                   "moving_time": 20
+                   },
+                   {
+                   "distance": 21,
+                   "elapsed_time": 22,
+                   "elevation_gain": 23,
+                   "moving_time": 24
+                   },
+                   {
+                   "distance": 25,
+                   "elevation_gain": 26,
+                   "moving_time": 27
+                   }
+                   ],
+          "distance": 123,
+          "moving_time": 50,
+          "elapsed_time": 70,
+          "elevation_gain": 190,
+          "goal": {
+              "goal": 1000,
+              "type": "TimeGoal"
+          }
+      },
+      "week": 32,
+      "year": 2014
+      },
+  {
+  "resource_state": 2,
+  "ride": {
+  "days": [
+           {
+           "distance": 10,
+           "elapsed_time": 9,
+           "elevation_gain": 8,
+           "moving_time": 7
+           },
+           {
+           "distance": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 20,
+           "elapsed_time": 30,
+           "elevation_gain": 40,
+           "moving_time": 50
+           },
+           {
+           "distance": 40,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 40,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 80,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           }
+           ],
+  "distance": 123000,
+  "elapsed_time": 600,
+  "elevation_gain": 234,
+  "goal": {
+  "goal": 5000,
+  "type": "DistanceGoal"
+  },
+  "moving_time": 4321
+  },
+  "run": {
+  "days": [
+           {
+           "distance": 1,
+           "elapsed_time": 2,
+           "elevation_gain": 3,
+           "moving_time": 4
+           },
+           {
+           "distance": 5,
+           "elapsed_time": 6,
+           "elevation_gain": 7,
+           "moving_time": 8
+           },
+           {
+           "distance": 9,
+           "elapsed_time": 10,
+           "elevation_gain": 11,
+           "moving_time": 12
+           },
+           {
+           "distance": 13,
+           "elapsed_time": 14,
+           "elevation_gain": 15,
+           "moving_time": 16
+           },
+           {
+           "distance": 17,
+           "elapsed_time": 18,
+           "elevation_gain": 19,
+           "moving_time": 20
+           },
+           {
+           "distance": 21,
+           "elapsed_time": 22,
+           "elevation_gain": 23,
+           "moving_time": 24
+           },
+           {
+           "distance": 25,
+           "elevation_gain": 26,
+           "moving_time": 27
+           }
+           ],
+  "distance": 123,
+  "moving_time": 50,
+  "elapsed_time": 70,
+  "elevation_gain": 190,
+  "goal": {
+  "goal": 1000,
+  "type": "TimeGoal"
+  }
+  },
+  "week": 32,
+  "year": 2014
+  },
+  {
+  "resource_state": 2,
+  "ride": {
+  "days": [
+           {
+           "distance": 10,
+           "elapsed_time": 9,
+           "elevation_gain": 8,
+           "moving_time": 7
+           },
+           {
+           "distance": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 20,
+           "elapsed_time": 30,
+           "elevation_gain": 40,
+           "moving_time": 50
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           }
+           ],
+  "distance": 323000,
+  "elapsed_time": 6000,
+  "elevation_gain": 34,
+  "goal": {
+  "goal": 10000,
+  "type": "DistanceGoal"
+  },
+  "moving_time": 4321
+  },
+  "run": {
+  "days": [
+           {
+           "distance": 1,
+           "elapsed_time": 2,
+           "elevation_gain": 3,
+           "moving_time": 4
+           },
+           {
+           "distance": 5,
+           "elapsed_time": 6,
+           "elevation_gain": 7,
+           "moving_time": 8
+           },
+           {
+           "distance": 9,
+           "elapsed_time": 10,
+           "elevation_gain": 11,
+           "moving_time": 12
+           },
+           {
+           "distance": 13,
+           "elapsed_time": 14,
+           "elevation_gain": 15,
+           "moving_time": 16
+           },
+           {
+           "distance": 17,
+           "elapsed_time": 18,
+           "elevation_gain": 19,
+           "moving_time": 20
+           },
+           {
+           "distance": 21,
+           "elapsed_time": 22,
+           "elevation_gain": 23,
+           "moving_time": 24
+           },
+           {
+           "distance": 25,
+           "elevation_gain": 26,
+           "moving_time": 27
+           }
+           ],
+  "distance": 123,
+  "moving_time": 50,
+  "elapsed_time": 70,
+  "elevation_gain": 190,
+  "goal": {
+  "goal": 1000,
+  "type": "TimeGoal"
+  }
+  },
+  "week": 32,
+  "year": 2014
+  },
+  {
+  "resource_state": 2,
+  "ride": {
+  "days": [
+           {
+           "distance": 10,
+           "elapsed_time": 9,
+           "elevation_gain": 8,
+           "moving_time": 7
+           },
+           {
+           "distance": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 20,
+           "elapsed_time": 30,
+           "elevation_gain": 40,
+           "moving_time": 50
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           }
+           ],
+  "distance": 123000,
+  "elapsed_time": 6000,
+  "elevation_gain": 1234,
+  "goal": {
+  "goal": 2000000,
+  "type": "DistanceGoal"
+  },
+  "moving_time": 4321
+  },
+  "run": {
+  "days": [
+           {
+           "distance": 1,
+           "elapsed_time": 2,
+           "elevation_gain": 3,
+           "moving_time": 4
+           },
+           {
+           "distance": 5,
+           "elapsed_time": 6,
+           "elevation_gain": 7,
+           "moving_time": 8
+           },
+           {
+           "distance": 9,
+           "elapsed_time": 10,
+           "elevation_gain": 11,
+           "moving_time": 12
+           },
+           {
+           "distance": 13,
+           "elapsed_time": 14,
+           "elevation_gain": 15,
+           "moving_time": 16
+           },
+           {
+           "distance": 17,
+           "elapsed_time": 18,
+           "elevation_gain": 19,
+           "moving_time": 20
+           },
+           {
+           "distance": 21,
+           "elapsed_time": 22,
+           "elevation_gain": 23,
+           "moving_time": 24
+           },
+           {
+           "distance": 25,
+           "elevation_gain": 26,
+           "moving_time": 27
+           }
+           ],
+  "distance": 123,
+  "moving_time": 50,
+  "elapsed_time": 70,
+  "elevation_gain": 190,
+  "goal": {
+  "goal": 1000,
+  "type": "TimeGoal"
+  }
+  },
+  "week": 32,
+  "year": 2014
+  },
+  {
+  "resource_state": 2,
+  "ride": {
+  "days": [
+           {
+           "distance": 10,
+           "elapsed_time": 9,
+           "elevation_gain": 8,
+           "moving_time": 7
+           },
+           {
+           "distance": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 20,
+           "elapsed_time": 30,
+           "elevation_gain": 40,
+           "moving_time": 50
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           }
+           ],
+  "distance": 223000,
+  "elapsed_time": 6000,
+  "elevation_gain": 1234,
+  "goal": {
+  "goal": 60000,
+  "type": "DistanceGoal"
+  },
+  "moving_time": 4321
+  },
+  "run": {
+  "days": [
+           {
+           "distance": 1,
+           "elapsed_time": 2,
+           "elevation_gain": 3,
+           "moving_time": 4
+           },
+           {
+           "distance": 5,
+           "elapsed_time": 6,
+           "elevation_gain": 7,
+           "moving_time": 8
+           },
+           {
+           "distance": 9,
+           "elapsed_time": 10,
+           "elevation_gain": 11,
+           "moving_time": 12
+           },
+           {
+           "distance": 13,
+           "elapsed_time": 14,
+           "elevation_gain": 15,
+           "moving_time": 16
+           },
+           {
+           "distance": 17,
+           "elapsed_time": 18,
+           "elevation_gain": 19,
+           "moving_time": 20
+           },
+           {
+           "distance": 21,
+           "elapsed_time": 22,
+           "elevation_gain": 23,
+           "moving_time": 24
+           },
+           {
+           "distance": 25,
+           "elevation_gain": 26,
+           "moving_time": 27
+           }
+           ],
+  "distance": 123,
+  "moving_time": 50,
+  "elapsed_time": 70,
+  "elevation_gain": 190,
+  "goal": {
+  "goal": 1000,
+  "type": "TimeGoal"
+  }
+  },
+  "week": 32,
+  "year": 2014
+  },
+  {
+  "resource_state": 2,
+  "ride": {
+  "days": [
+           {
+           "distance": 10,
+           "elapsed_time": 9,
+           "elevation_gain": 8,
+           "moving_time": 7
+           },
+           {
+           "distance": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 20,
+           "elapsed_time": 30,
+           "elevation_gain": 40,
+           "moving_time": 50
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           }
+           ],
+  "distance": 233000,
+  "elapsed_time": 6000,
+  "elevation_gain": 1234,
+  "goal": {
+  "goal": 50000,
+  "type": "DistanceGoal"
+  },
+  "moving_time": 4321
+  },
+  "run": {
+  "days": [
+           {
+           "distance": 1,
+           "elapsed_time": 2,
+           "elevation_gain": 3,
+           "moving_time": 4
+           },
+           {
+           "distance": 5,
+           "elapsed_time": 6,
+           "elevation_gain": 7,
+           "moving_time": 8
+           },
+           {
+           "distance": 9,
+           "elapsed_time": 10,
+           "elevation_gain": 11,
+           "moving_time": 12
+           },
+           {
+           "distance": 13,
+           "elapsed_time": 14,
+           "elevation_gain": 15,
+           "moving_time": 16
+           },
+           {
+           "distance": 17,
+           "elapsed_time": 18,
+           "elevation_gain": 19,
+           "moving_time": 20
+           },
+           {
+           "distance": 21,
+           "elapsed_time": 22,
+           "elevation_gain": 23,
+           "moving_time": 24
+           },
+           {
+           "distance": 25,
+           "elevation_gain": 26,
+           "moving_time": 27
+           }
+           ],
+  "distance": 123,
+  "moving_time": 50,
+  "elapsed_time": 70,
+  "elevation_gain": 190,
+  "goal": {
+  "goal": 1000,
+  "type": "TimeGoal"
+  }
+  },
+  "week": 32,
+  "year": 2014
+  },
+  {
+  "resource_state": 2,
+  "ride": {
+  "days": [
+           {
+           "distance": 10,
+           "elapsed_time": 9,
+           "elevation_gain": 8,
+           "moving_time": 7
+           },
+           {
+           "distance": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 20,
+           "elapsed_time": 30,
+           "elevation_gain": 40,
+           "moving_time": 50
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           }
+           ],
+  "distance": 323000,
+  "elapsed_time": 6000,
+  "elevation_gain": 1234,
+  "goal": {
+  "goal": 5000000,
+  "type": "DistanceGoal"
+  },
+  "moving_time": 4321
+  },
+  "run": {
+  "days": [
+           {
+           "distance": 1,
+           "elapsed_time": 2,
+           "elevation_gain": 3,
+           "moving_time": 4
+           },
+           {
+           "distance": 5,
+           "elapsed_time": 6,
+           "elevation_gain": 7,
+           "moving_time": 8
+           },
+           {
+           "distance": 9,
+           "elapsed_time": 10,
+           "elevation_gain": 11,
+           "moving_time": 12
+           },
+           {
+           "distance": 13,
+           "elapsed_time": 14,
+           "elevation_gain": 15,
+           "moving_time": 16
+           },
+           {
+           "distance": 17,
+           "elapsed_time": 18,
+           "elevation_gain": 19,
+           "moving_time": 20
+           },
+           {
+           "distance": 21,
+           "elapsed_time": 22,
+           "elevation_gain": 23,
+           "moving_time": 24
+           },
+           {
+           "distance": 25,
+           "elevation_gain": 26,
+           "moving_time": 27
+           }
+           ],
+  "distance": 123,
+  "moving_time": 50,
+  "elapsed_time": 70,
+  "elevation_gain": 190,
+  "goal": {
+  "goal": 1000,
+  "type": "TimeGoal"
+  }
+  },
+  "week": 32,
+  "year": 2014
+  },
+  {
+  "resource_state": 2,
+  "ride": {
+  "days": [
+           {
+           "distance": 10,
+           "elapsed_time": 9,
+           "elevation_gain": 8,
+           "moving_time": 7
+           },
+           {
+           "distance": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 20,
+           "elapsed_time": 30,
+           "elevation_gain": 40,
+           "moving_time": 50
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           }
+           ],
+  "distance": 523000,
+  "elapsed_time": 6000,
+  "elevation_gain": 1234,
+  "goal": {
+  "goal": 5000000,
+  "type": "DistanceGoal"
+  },
+  "moving_time": 4321
+  },
+  "run": {
+  "days": [
+           {
+           "distance": 1,
+           "elapsed_time": 2,
+           "elevation_gain": 3,
+           "moving_time": 4
+           },
+           {
+           "distance": 5,
+           "elapsed_time": 6,
+           "elevation_gain": 7,
+           "moving_time": 8
+           },
+           {
+           "distance": 9,
+           "elapsed_time": 10,
+           "elevation_gain": 11,
+           "moving_time": 12
+           },
+           {
+           "distance": 13,
+           "elapsed_time": 14,
+           "elevation_gain": 15,
+           "moving_time": 16
+           },
+           {
+           "distance": 17,
+           "elapsed_time": 18,
+           "elevation_gain": 19,
+           "moving_time": 20
+           },
+           {
+           "distance": 21,
+           "elapsed_time": 22,
+           "elevation_gain": 23,
+           "moving_time": 24
+           },
+           {
+           "distance": 25,
+           "elevation_gain": 26,
+           "moving_time": 27
+           }
+           ],
+  "distance": 1230,
+  "moving_time": 50,
+  "elapsed_time": 70,
+  "elevation_gain": 190,
+  "goal": {
+  "goal": 1000,
+  "type": "TimeGoal"
+  }
+  },
+  "week": 32,
+  "year": 2014
+  },
+  {
+  "resource_state": 2,
+  "ride": {
+  "days": [
+           {
+           "distance": 10,
+           "elapsed_time": 9,
+           "elevation_gain": 8,
+           "moving_time": 7
+           },
+           {
+           "distance": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 20,
+           "elapsed_time": 30,
+           "elevation_gain": 40,
+           "moving_time": 50
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           }
+           ],
+  "distance": 423000,
+  "elapsed_time": 6000,
+  "elevation_gain": 1234,
+  "goal": {
+  "goal": 5000000,
+  "type": "DistanceGoal"
+  },
+  "moving_time": 4321
+  },
+  "run": {
+  "days": [
+           {
+           "distance": 1,
+           "elapsed_time": 2,
+           "elevation_gain": 3,
+           "moving_time": 4
+           },
+           {
+           "distance": 5,
+           "elapsed_time": 6,
+           "elevation_gain": 7,
+           "moving_time": 8
+           },
+           {
+           "distance": 9,
+           "elapsed_time": 10,
+           "elevation_gain": 11,
+           "moving_time": 12
+           },
+           {
+           "distance": 13,
+           "elapsed_time": 14,
+           "elevation_gain": 15,
+           "moving_time": 16
+           },
+           {
+           "distance": 17,
+           "elapsed_time": 18,
+           "elevation_gain": 19,
+           "moving_time": 20
+           },
+           {
+           "distance": 21,
+           "elapsed_time": 22,
+           "elevation_gain": 23,
+           "moving_time": 24
+           },
+           {
+           "distance": 25,
+           "elevation_gain": 26,
+           "moving_time": 27
+           }
+           ],
+  "distance": 123,
+  "moving_time": 50,
+  "elapsed_time": 70,
+  "elevation_gain": 190,
+  "goal": {
+  "goal": 1000,
+  "type": "TimeGoal"
+  }
+  },
+  "week": 32,
+  "year": 2014
+  },
+  {
+  "resource_state": 2,
+  "ride": {
+  "days": [
+           {
+           "distance": 10,
+           "elapsed_time": 9,
+           "elevation_gain": 8,
+           "moving_time": 7
+           },
+           {
+           "distance": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 20,
+           "elapsed_time": 30,
+           "elevation_gain": 40,
+           "moving_time": 50
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           }
+           ],
+  "distance": 123000,
+  "elapsed_time": 6000,
+  "elevation_gain": 1234,
+  "goal": {
+  "goal": 5000000,
+  "type": "DistanceGoal"
+  },
+  "moving_time": 4321
+  },
+  "run": {
+  "days": [
+           {
+           "distance": 1,
+           "elapsed_time": 2,
+           "elevation_gain": 3,
+           "moving_time": 4
+           },
+           {
+           "distance": 5,
+           "elapsed_time": 6,
+           "elevation_gain": 7,
+           "moving_time": 8
+           },
+           {
+           "distance": 9,
+           "elapsed_time": 10,
+           "elevation_gain": 11,
+           "moving_time": 12
+           },
+           {
+           "distance": 13,
+           "elapsed_time": 14,
+           "elevation_gain": 15,
+           "moving_time": 16
+           },
+           {
+           "distance": 17,
+           "elapsed_time": 18,
+           "elevation_gain": 19,
+           "moving_time": 20
+           },
+           {
+           "distance": 21,
+           "elapsed_time": 22,
+           "elevation_gain": 23,
+           "moving_time": 24
+           },
+           {
+           "distance": 25,
+           "elevation_gain": 26,
+           "moving_time": 27
+           }
+           ],
+  "distance": 1230,
+  "moving_time": 50,
+  "elapsed_time": 70,
+  "elevation_gain": 190,
+  "goal": {
+  "goal": 1000,
+  "type": "TimeGoal"
+  }
+  },
+  "week": 32,
+  "year": 2014
+  }
+  ,
+  {
+  "resource_state": 2,
+  "ride": {
+  "days": [
+           {
+           "distance": 10,
+           "elapsed_time": 9,
+           "elevation_gain": 8,
+           "moving_time": 7
+           },
+           {
+           "distance": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 20,
+           "elapsed_time": 30,
+           "elevation_gain": 40,
+           "moving_time": 50
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           }
+           ],
+  "distance": 223000,
+  "elapsed_time": 6000,
+  "elevation_gain": 1234,
+  "goal": {
+  "goal": 5000000,
+  "type": "DistanceGoal"
+  },
+  "moving_time": 4321
+  },
+  "run": {
+  "days": [
+           {
+           "distance": 1,
+           "elapsed_time": 2,
+           "elevation_gain": 3,
+           "moving_time": 4
+           },
+           {
+           "distance": 5,
+           "elapsed_time": 6,
+           "elevation_gain": 7,
+           "moving_time": 8
+           },
+           {
+           "distance": 9,
+           "elapsed_time": 10,
+           "elevation_gain": 11,
+           "moving_time": 12
+           },
+           {
+           "distance": 13,
+           "elapsed_time": 14,
+           "elevation_gain": 15,
+           "moving_time": 16
+           },
+           {
+           "distance": 17,
+           "elapsed_time": 18,
+           "elevation_gain": 19,
+           "moving_time": 20
+           },
+           {
+           "distance": 21,
+           "elapsed_time": 22,
+           "elevation_gain": 23,
+           "moving_time": 24
+           },
+           {
+           "distance": 25,
+           "elevation_gain": 26,
+           "moving_time": 27
+           }
+           ],
+  "distance": 1230,
+  "moving_time": 50,
+  "elapsed_time": 70,
+  "elevation_gain": 190,
+  "goal": {
+  "goal": 1000,
+  "type": "TimeGoal"
+  }
+  },
+  "week": 32,
+  "year": 2014
+  }
+  ,
+  {
+  "resource_state": 2,
+  "ride": {
+  "days": [
+           {
+           "distance": 10,
+           "elapsed_time": 9,
+           "elevation_gain": 8,
+           "moving_time": 7
+           },
+           {
+           "distance": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 20,
+           "elapsed_time": 30,
+           "elevation_gain": 40,
+           "moving_time": 50
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           },
+           {
+           "distance": 0,
+           "elapsed_time": 0,
+           "elevation_gain": 0,
+           "moving_time": 0
+           }
+           ],
+  "distance": 123000,
+  "elapsed_time": 6000,
+  "elevation_gain": 1234,
+  "goal": {
+  "goal": 5000000,
+  "type": "DistanceGoal"
+  },
+  "moving_time": 4321
+  },
+  "run": {
+  "days": [
+           {
+           "distance": 1,
+           "elapsed_time": 2,
+           "elevation_gain": 3,
+           "moving_time": 4
+           },
+           {
+           "distance": 5,
+           "elapsed_time": 6,
+           "elevation_gain": 7,
+           "moving_time": 8
+           },
+           {
+           "distance": 9,
+           "elapsed_time": 10,
+           "elevation_gain": 11,
+           "moving_time": 12
+           },
+           {
+           "distance": 13,
+           "elapsed_time": 14,
+           "elevation_gain": 15,
+           "moving_time": 16
+           },
+           {
+           "distance": 17,
+           "elapsed_time": 18,
+           "elevation_gain": 19,
+           "moving_time": 20
+           },
+           {
+           "distance": 21,
+           "elapsed_time": 22,
+           "elevation_gain": 23,
+           "moving_time": 24
+           },
+           {
+           "distance": 25,
+           "elevation_gain": 26,
+           "moving_time": 27
+           }
+           ],
+  "distance": 1230,
+  "moving_time": 50,
+  "elapsed_time": 70,
+  "elevation_gain": 190,
+  "goal": {
+  "goal": 1000,
+  "type": "TimeGoal"
+  }
+  },
+  "week": 32,
+  "year": 2014
+  }
+  ]

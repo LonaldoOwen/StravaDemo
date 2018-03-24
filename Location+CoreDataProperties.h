@@ -6,8 +6,9 @@
 //  Copyright © 2016年 owen. All rights reserved.
 //
 
-#import "Location+CoreDataClass.h"
+#import "Location.h"
 
+@class Run;
 
 NS_ASSUME_NONNULL_BEGIN
 

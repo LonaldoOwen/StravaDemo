@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
+@class Run;
+
 @interface DetailTableViewController : UITableViewController
+
+@property (strong, nonatomic) Run *run;
 
 @end
