@@ -1,0 +1,4 @@
+[submodule "MapboxStatic.swift"]
+	path = MapboxStatic.swift
+	url = https://github.com/mapbox/MapboxStatic.swift.git
+	branch = master
